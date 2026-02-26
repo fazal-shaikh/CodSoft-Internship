@@ -68,7 +68,7 @@ The dataset includes passenger information such as:
 
 ## 👨‍💻 Author
 
-Fazal njr  
+Fazal m Shaikh 
 Gen AI & Data Science Engineer  
 VTU University | CGPA: 8.7  
 
