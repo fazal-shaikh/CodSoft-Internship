@@ -16,32 +16,32 @@
 
 ## 👨‍💻 About Me
 
-**Fazal N Jr**  
+**Fazal M Shaikh**  
 Gen AI & Data Science Engineer  
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
-💻 GitHub: https://github.com/your-github-username  
+🔗 LinkedIn: http://linkedin.com/in/fazalmshaikh  
+💻 GitHub: https://github.com/fazal-shaikh  
 
 ---
 
 ## 📌 Overview
 
-This repository showcases the projects completed during the **CODSOFT Data Science Internship**.  
+This repository showcases the projects completed during the **CODSOFT Data Science Internship**.
 
-The objective of this internship was to apply Machine Learning concepts to real-world datasets and implement complete end-to-end ML workflows — from data preprocessing to model evaluation and optimization.
+The internship focused on applying Machine Learning concepts to real-world datasets and implementing complete end-to-end ML workflows — including data preprocessing, exploratory data analysis, model building, and performance evaluation.
 
 ---
 
 ## 📂 Projects
 
 ### 1️⃣ Titanic Survival Prediction
-Built a classification model to predict whether a passenger survived the Titanic disaster using demographic and ticket-related features.
+Built a classification model to predict passenger survival using demographic and ticket-related features.
 
 ### 2️⃣ Movie Rating Prediction
-Developed a regression model to estimate movie ratings based on historical data such as genre, director, and actors.
+Developed a regression model to estimate movie ratings based on historical movie data such as genre, director, and actors.
 
 ### 3️⃣ Iris Flower Classification
-Implemented a multi-class classification model to categorize iris flowers into:
+Implemented a multi-class classification model to classify iris flowers into:
 - Setosa  
 - Versicolor  
 - Virginica  
@@ -50,7 +50,7 @@ Implemented a multi-class classification model to categorize iris flowers into:
 Created a regression model to forecast product sales using advertising and marketing data.
 
 ### 5️⃣ Credit Card Fraud Detection
-Designed a binary classification model to detect fraudulent transactions, including handling class imbalance and evaluating with precision, recall, and F1-score.
+Designed a binary classification model to detect fraudulent transactions, including handling class imbalance and evaluating performance using precision, recall, and F1-score.
 
 ---
 
@@ -70,8 +70,8 @@ Designed a binary classification model to detect fraudulent transactions, includ
 - Exploratory Data Analysis (EDA)  
 - Feature Engineering  
 - Supervised Learning (Classification & Regression)  
-- Model Evaluation Metrics  
-- Handling Imbalanced Data  
+- Model Evaluation & Performance Metrics  
+- Handling Imbalanced Datasets  
 
 ---
 
@@ -86,19 +86,19 @@ Designed a binary classification model to detect fraudulent transactions, includ
 
 ## 📜 Certification
 
-Successfully completed the **Data Science Internship at CODSOFT** with hands-on implementation of multiple Machine Learning projects.
+Successfully completed the **Data Science Internship at CODSOFT**, gaining hands-on experience in multiple real-world Machine Learning projects.
 
 ---
 
 ## 🤝 Open to Opportunities
 
-Actively seeking roles in:
+Actively seeking opportunities in:
 
 - Data Science  
 - Machine Learning  
 - Artificial Intelligence  
 - Generative AI Engineering  
 
-If you found this repository valuable, feel free to ⭐ star it!
+If you found this repository helpful, feel free to ⭐ star it!
 
 ---
